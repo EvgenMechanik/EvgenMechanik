@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EvgenMechanik
-- 👀 I’m interested in automobile
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in automobiles
+- 🌱 I’m currently learning MADI
+- 💞️ I’m looking to collaborate on custom cars
 - 📫 How to reach me ...
 
 <!---
